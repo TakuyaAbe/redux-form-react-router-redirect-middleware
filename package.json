@@ -1,0 +1,11 @@
+{
+    "name": "redux-form-react-router-redirect-middleware",
+    "version": "0.0.1",
+    "description": "When SubmissionError occurs, this middleware automatically do redirection to the page of the form that has error.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Takuya Abe",
+    "license": "MIT"
+}
